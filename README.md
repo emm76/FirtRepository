@@ -1,2 +1,2 @@
-# FirtRepository
+# FirstRepository
 The first repository
